@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Trained model weights
+*_weights/
+
+# Downloaded dataset cache
+opus_data/
+
+# Weights & Biases logs
+wandb/
+
+# Tokenizer files
+tokenizer_*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
